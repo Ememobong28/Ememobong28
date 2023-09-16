@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Immanuella Umoren
-- 👀 I’m interested in learning how to code, create websites and apps.
-- 🌱 I’m currently learning html, html5 and css
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Immanuella Umoren👩‍💻
+- I'm a Computer Science major with a fervor for all things tech.
+- 🚀 I've interned at Meta and dream of shaping the future as a software engineer.
+-  🛠️ Challenges? I face them with resilience and always aim for the zenith.
+-  🌟 Let's code and innovate the world together! 💡
 
 
 <!---
