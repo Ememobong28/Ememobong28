@@ -20,5 +20,8 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+## Very Random (Spotify Listens)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ougrxmr5unylsbbfrfomhyyykq)<br/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ememobong28&icon=4&color=11)](https://visitcount.itsvg.in)
