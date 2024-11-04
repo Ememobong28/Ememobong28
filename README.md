@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Immanuella Umoren👩‍💻
-- I'm a Computer Science major with a fervor for all things tech.
-- 🚀 I've interned at Meta and dream of shaping the future as a software engineer.
--  🛠️ Challenges? I face them with resilience and always aim for the zenith.
--  🌟 Let's code and innovate the world together! 💡
+### Hi, I’m Immanuella P.S. Emem (favorite name)!!
+
+🚀 Aspiring Software Engineer<br/>
+📚 Studying Computer Science @ Philander Smith Univeristy<br/>
+👩🏽‍💻 Interned at Meta and ServiceNow as a Software Engineer<br/>
+🛠️ Challenges? I face them with resilience and always aim for the zenith<br/>
+💡 Let's code and innovate the world together!<br/>
+
+
+![Immanuella's github stats](https://github-readme-stats.vercel.app/api?username=ememobong28&show_icons=true&theme=onedark)
 
 
 <!---
