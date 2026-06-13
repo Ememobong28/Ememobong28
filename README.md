@@ -1,6 +1,6 @@
 ## 💫 About Me:
  Hi, I’m Immanuella P.S. Emem (favorite name)!!<br>
- 📚 Studying Computer Science @ Philander Smith Univeristy<br/>
+ 📚 Recent Undergraduate <br/>
  👩🏽‍💻 Interned at Meta, ServiceNow, and Oracle as a Software Engineer<br/>
  🛠️ Challenges? I face them with resilience and always aim for the zenith<br/>
  💡 Let's code and innovate the world together!<br/>
