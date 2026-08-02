@@ -208,9 +208,9 @@ I care deeply about helping more students, especially women and students from un
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ememobong28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6" alt="Immanuella's GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats-drab-kappa-61.vercel.app/api?username=Ememobong28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6" alt="Immanuella's GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ememobong28&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&langs_count=8" alt="Most-used programming languages"/>
+<img width="49%" src="https://github-readme-stats-drab-kappa-61.vercel.app/api/top-langs/?username=Ememobong28&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&langs_count=8" alt="Most-used programming languages"/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ememobong28&hide_border=true&theme=transparent&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub contribution streak"/>
 
